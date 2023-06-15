@@ -1,0 +1,62 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "close",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"stateMutability": "payable",
+				"type": "receive"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Week-3/destructorFunction.sol": "destructorFunction"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Week-3/destructorFunction.sol": {
+			"keccak256": "0x47ff81877c5383bb85e01cac386a102c863c8c803b58361f1a96e05e858354ed",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://fbebc43ca3cac06962b50d2666143f1370c95f07547c02f181f5b312f14f29ed",
+				"dweb:/ipfs/QmP4cVGMQmxUCheUWog3c9PUEFBAWxJtYL1nu6S9evDbVU"
+			]
+		}
+	},
+	"version": 1
+}

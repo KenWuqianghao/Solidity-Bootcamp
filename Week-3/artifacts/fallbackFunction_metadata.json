@@ -1,0 +1,69 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "address",
+						"name": "caller",
+						"type": "address"
+					},
+					{
+						"indexed": false,
+						"internalType": "uint256",
+						"name": "value",
+						"type": "uint256"
+					}
+				],
+				"name": "FallbackCalled",
+				"type": "event"
+			},
+			{
+				"stateMutability": "payable",
+				"type": "fallback"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Week-3/fallbackFunction.sol": "fallbackFunction"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Week-3/fallbackFunction.sol": {
+			"keccak256": "0xeb0ffa6eb5b4d35d7790543524f893d8721dbb6581b0587699338417dd8c5cee",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://84720b1a5e8abfda955e237a6dd25b5a71367b4e86d7865db67249495fe0e0f0",
+				"dweb:/ipfs/Qmd4puKnQhEL2SVjpaT9Sw8RJ5bmSj7b9EUUt5hHbvDRio"
+			]
+		}
+	},
+	"version": 1
+}
