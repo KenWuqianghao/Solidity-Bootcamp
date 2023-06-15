@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Week-3/basicSyntax.sol": "basic"
+			"Week-4/error.sol": "erros"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -32,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Week-3/basicSyntax.sol": {
-			"keccak256": "0x65ff5884d2f022748dceef209e28e440305b34abd1f6976a628b6d4e12451217",
+		"Week-4/error.sol": {
+			"keccak256": "0x996157b3070811301d496e8e76dd33ff59cde97d79c403c16c32efa4afba1305",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://ea570d2cae282f94c0c63ee75494940a660c0ed6c921deb0160f64a8c6a6dd9c",
-				"dweb:/ipfs/QmXN5H9FUtpmMvHoE7NMJtqdrUJbHiCRh7oXUwu9ez6JN3"
+				"bzz-raw://6e4c00186a9c3f646bb6a39f071dff78cc44661696e0d79ada4a1b08f3953e20",
+				"dweb:/ipfs/QmVe8AuchHtw7jzzzbJXTLEUoZ644kwtSy4eZHJ4gCChH1"
 			]
 		}
 	},

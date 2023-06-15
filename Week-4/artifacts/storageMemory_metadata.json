@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_index",
+						"type": "uint256"
+					}
+				],
+				"name": "eatSandwich",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Week-4/storageMemory.sol": "storageMemory"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Week-4/storageMemory.sol": {
+			"keccak256": "0x89671e765220d9e8cac7d3722eb4d378b443e2a5e927a6bf7e95b9c59775c2f3",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://b4eafe1705c76a131ccfbb34d75b1d2c967b30a08226ca689ba2af55ec79b4d4",
+				"dweb:/ipfs/QmYUJgJqVT1uX6XMcf7v88FTiiESAc7oWWbfE6hfTY7P3M"
+			]
+		}
+	},
+	"version": 1
+}
