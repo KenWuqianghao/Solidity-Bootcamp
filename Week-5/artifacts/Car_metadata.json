@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_brand",
+						"type": "string"
+					}
+				],
+				"name": "setBrand",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_color",
+						"type": "string"
+					}
+				],
+				"name": "setColor",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Week-5/inheritanceExercise.sol": "Car"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Week-5/inheritanceExercise.sol": {
+			"keccak256": "0x20cfa3b80a5e7d46ae0b33d79eb8edd7e2f7fa541cc117bb7180b10e04ca48d4",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://463032fb64ecd3bbe44283977d369c33b018fe927d2f10cbbf2bedcec36d18e7",
+				"dweb:/ipfs/QmRo8QfmLobS73Kbi6Fdz2McwJMZdhC8AwzChjAFjkew5P"
+			]
+		}
+	},
+	"version": 1
+}

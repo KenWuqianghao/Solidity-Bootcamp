@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getBalance",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Week-5/interfaceExercise.sol": "IWatCard"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Week-5/interfaceExercise.sol": {
+			"keccak256": "0x6c9aca17e37f3e572cef8cde5deffb5a7304013d8e784ec733b0fa741af0edc8",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://58ff0545c49254c797e2ddf780a2b41f392e039143d499665731c47ae3c17ffd",
+				"dweb:/ipfs/QmdAYcV5YHgu9jB6eQAHMrWE2vUTq57c4gHAt7vgeDVb1C"
+			]
+		}
+	},
+	"version": 1
+}

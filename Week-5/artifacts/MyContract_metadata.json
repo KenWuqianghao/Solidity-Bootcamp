@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "myFunction",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Week-5/interfaces.sol": "MyContract"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Week-5/interfaces.sol": {
+			"keccak256": "0xde37b25399b9d7bc640aa6beab324b9865d071347255b501f59304f81a479bad",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://a98dee618ae03d1a5602b998e6cd8c65f8a9ec4c0b88bef1edcac5fec4d887b0",
+				"dweb:/ipfs/QmWiUsSYr3GGexH8eE64BihQm1SpuNZCuDSC9ZragxZNmr"
+			]
+		}
+	},
+	"version": 1
+}
